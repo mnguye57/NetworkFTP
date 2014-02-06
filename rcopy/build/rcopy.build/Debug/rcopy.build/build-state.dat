@@ -1,0 +1,1360 @@
+Trcopy
+v7
+r0
+t375069743.569823
+cCheck dependencies
+cCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o //Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy normal x86_64
+
+N//Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c
+c00000000000000000000000000000000
+t2
+s0
+
+N//Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c
+c0000000050AAC88D00000000000010BD
+t1353369741
+s4285
+
+N/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/SDKs/MacOSX10.5.sdk/usr/include/_structs.h
+c0000000047BA993000000000000003EF
+t1203411248
+s1007
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/_types.h
+c0000000047BA9930000000000000063A
+t1203411248
+s1594
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/_xlocale.h
+c0000000047BA99300000000000000486
+t1203411248
+s1158
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/alloca.h
+c0000000047BA99300000000000000588
+t1203411248
+s1416
+i<sys/cdefs.h>
+i<_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/available.h
+c0000000047BA993200000000000053DF
+t1203411250
+s21471
+
+N/SDKs/MacOSX10.5.sdk/usr/include/errno.h
+c0000000047BA993000000000000003EB
+t1203411248
+s1003
+i<sys/errno.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/fcntl.h
+c0000000047BA993000000000000003EA
+t1203411248
+s1002
+i<sys/fcntl.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/_limits.h
+c0000000041A52774000000000000042D
+t1101342580
+s1069
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/_param.h
+c0000000047E884040000000000000702
+t1206420484
+s1794
+i<i386/_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/_structs.h
+c0000000047E884040000000000000CC7
+t1206420484
+s3271
+i<sys/appleapiopts.h>
+i<mach/i386/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/_types.h
+c0000000047E884040000000000001197
+t1206420484
+s4503
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/endian.h
+c0000000047E8840400000000000010DA
+t1206420484
+s4314
+i<sys/cdefs.h>
+i<sys/_endian.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/signal.h
+c0000000047E88404000000000000084C
+t1206420484
+s2124
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<i386/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/i386/types.h
+c0000000047E884040000000000001351
+t1206420484
+s4945
+i<i386/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/libkern/_OSByteOrder.h
+c0000000047E883E600000000000010F0
+t1206420454
+s4336
+i<sys/_types.h>
+i<libkern/i386/_OSByteOrder.h>
+i<libkern/arm/OSByteOrder.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/libkern/i386/_OSByteOrder.h
+c0000000047E8840900000000000009D3
+t1206420489
+s2515
+
+N/SDKs/MacOSX10.5.sdk/usr/include/mach/i386/_structs.h
+c0000000047E884000000000000003DF1
+t1206420480
+s15857
+
+N/SDKs/MacOSX10.5.sdk/usr/include/mach/ppc/_structs.h
+c0000000047E883EF0000000000002D97
+t1206420463
+s11671
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/_limits.h
+c0000000047E883B80000000000000688
+t1206420408
+s1672
+i"ppc/_limits.h"
+i"i386/_limits.h"
+i"arm/_limits.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/_param.h
+c0000000047E883B8000000000000061F
+t1206420408
+s1567
+i"ppc/_param.h"
+i"i386/_param.h"
+i"arm/_param.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/_structs.h
+c0000000047E883B80000000000000625
+t1206420408
+s1573
+i"ppc/_structs.h"
+i"i386/_structs.h"
+i"arm/_structs.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/_types.h
+c0000000047E883B80000000000000682
+t1206420408
+s1666
+i"ppc/_types.h"
+i"i386/_types.h"
+i"arm/_types.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/endian.h
+c0000000047E883B700000000000006C3
+t1206420407
+s1731
+i"ppc/endian.h"
+i"i386/endian.h"
+i"arm/endian.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/signal.h
+c0000000047E883B80000000000000682
+t1206420408
+s1666
+i"ppc/signal.h"
+i"i386/signal.h"
+i"arm/signal.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/machine/types.h
+c0000000047E883B800000000000006BE
+t1206420408
+s1726
+i"ppc/types.h"
+i"i386/types.h"
+i"arm/types.h"
+
+N/SDKs/MacOSX10.5.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+i<_types.h>
+i<stdint.h>
+i<netinet/in.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/netinet/in.h
+c0000000047E883C30000000000005346
+t1206420419
+s21318
+i<sys/appleapiopts.h>
+i<sys/_types.h>
+i<stdint.h>
+i<sys/socket.h>
+i<machine/endian.h>
+i<sys/_endian.h>
+i<netinet6/in6.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/netinet6/in6.h
+c0000000047E883C90000000000004970
+t1206420425
+s18800
+i<sys/appleapiopts.h>
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/_limits.h
+c0000000041A52774000000000000042A
+t1101342580
+s1066
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/_param.h
+c0000000047E883F300000000000006FE
+t1206420467
+s1790
+i<ppc/_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/_structs.h
+c0000000047E883F30000000000001D01
+t1206420467
+s7425
+i<sys/cdefs.h>
+i<mach/ppc/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/_types.h
+c0000000047E883F30000000000001194
+t1206420467
+s4500
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/endian.h
+c0000000047E883F200000000000015AE
+t1206420466
+s5550
+i<sys/cdefs.h>
+i<sys/_endian.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/signal.h
+c0000000047E883F30000000000000AE1
+t1206420467
+s2785
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<ppc/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/ppc/types.h
+c0000000047E883F3000000000000140B
+t1206420467
+s5131
+i<ppc/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/pthread.h
+c0000000047BA9932000000000000380F
+t1203411250
+s14351
+i<_types.h>
+i<pthread_impl.h>
+i<sched.h>
+i<time.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/pthread_impl.h
+c0000000047BA99300000000000000668
+t1203411248
+s1640
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sched.h
+c0000000047BA99300000000000000560
+t1203411248
+s1376
+i<pthread_impl.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/secure/_common.h
+c0000000047BA9930000000000000056E
+t1203411248
+s1390
+
+N/SDKs/MacOSX10.5.sdk/usr/include/secure/_stdio.h
+c0000000047BA9930000000000000090F
+t1203411248
+s2319
+i<secure/_common.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/secure/_string.h
+c0000000047BA99300000000000001110
+t1203411248
+s4368
+i<secure/_common.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/stdint.h
+c000000004A11EB05000000000000190C
+t1242688261
+s6412
+
+N/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+i<_types.h>
+i<xlocale/_stdio.h>
+i<secure/_stdio.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+i<available.h>
+i<_types.h>
+i<sys/wait.h>
+i<alloca.h>
+i<_xlocale.h>
+i<machine/types.h>
+i<xlocale/_stdlib.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/string.h
+c0000000047BA99320000000000001731
+t1203411250
+s5937
+i<_types.h>
+i<sys/cdefs.h>
+i<xlocale/_string.h>
+i<secure/_string.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/strings.h
+c0000000047BA99300000000000000DA4
+t1203411248
+s3492
+i<sys/cdefs.h>
+i<string.h>
+i<_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/_endian.h
+c0000000047E883D3000000000000177A
+t1206420435
+s6010
+i<sys/cdefs.h>
+i<libkern/_OSByteOrder.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/_select.h
+c0000000047E883D300000000000008F6
+t1206420435
+s2294
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/_structs.h
+c0000000047E883D30000000000001EC3
+t1206420435
+s7875
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<machine/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/_types.h
+c0000000047E883D3000000000000181C
+t1206420435
+s6172
+i<sys/cdefs.h>
+i<machine/_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/appleapiopts.h
+c0000000047E883CE0000000000000816
+t1206420430
+s2070
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/cdefs.h
+c0000000047E883CF0000000000004990
+t1206420431
+s18832
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/errno.h
+c0000000047E883CF0000000000002C30
+t1206420431
+s11312
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/fcntl.h
+c0000000047E883CF0000000000004080
+t1206420431
+s16512
+i<sys/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/resource.h
+c0000000047E883D10000000000002440
+t1206420433
+s9280
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/select.h
+c0000000047E883D100000000000016A2
+t1206420433
+s5794
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+i<sys/_select.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/signal.h
+c0000000047E883D10000000000003E13
+t1206420433
+s15891
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<machine/signal.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/socket.h
+c0000000047E883D1000000000000559B
+t1206420433
+s21915
+i<sys/_types.h>
+i<sys/cdefs.h>
+i<machine/_param.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/stat.h
+c0000000047E883D100000000000047CE
+t1206420433
+s18382
+i<sys/_types.h>
+i<sys/cdefs.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/time.h
+c0000000047E883D20000000000001E18
+t1206420434
+s7704
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+i<time.h>
+i<sys/_select.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/types.h
+c0000000047E883D2000000000000290F
+t1206420434
+s10511
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<machine/types.h>
+i<sys/_types.h>
+i<machine/endian.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/uio.h
+c0000000047E883D20000000000001130
+t1206420434
+s4400
+i<sys/cdefs.h>
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/unistd.h
+c0000000047E883D20000000000001D15
+t1206420434
+s7445
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/sys/wait.h
+c0000000047E883D3000000000000273C
+t1206420435
+s10044
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/signal.h>
+i<sys/resource.h>
+i<machine/endian.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/time.h
+c0000000047BA9932000000000000178E
+t1203411250
+s6030
+i<_types.h>
+i<_structs.h>
+i<machine/_limits.h>
+i<xlocale/_time.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/unistd.h
+c0000000047BA993200000000000053FF
+t1203411250
+s21503
+i<_types.h>
+i<sys/unistd.h>
+i<sys/select.h>
+
+N/SDKs/MacOSX10.5.sdk/usr/include/xlocale/_stdio.h
+c0000000047BA99310000000000000AF2
+t1203411249
+s2802
+
+N/SDKs/MacOSX10.5.sdk/usr/include/xlocale/_stdlib.h
+c0000000047BA99310000000000000A4C
+t1203411249
+s2636
+
+N/SDKs/MacOSX10.5.sdk/usr/include/xlocale/_string.h
+c0000000047BA99310000000000000572
+t1203411249
+s1394
+
+N/SDKs/MacOSX10.5.sdk/usr/include/xlocale/_time.h
+c0000000047BA99310000000000000555
+t1203411249
+s1365
+
+N/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/SDKs/MacOSX10.6.sdk/usr/include/Availability.h
+c000000004A11A9B300000000000019DB
+t1242671539
+s6619
+i<AvailabilityInternal.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/AvailabilityInternal.h
+c000000004A11A9B3000000000000456C
+t1242671539
+s17772
+
+N/SDKs/MacOSX10.6.sdk/usr/include/_structs.h
+c000000004BBD2CE900000000000003EF
+t1270689001
+s1007
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/_types.h
+c000000004BBD2CE90000000000000890
+t1270689001
+s2192
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/_xlocale.h
+c000000004BBD2CE90000000000000486
+t1270689001
+s1158
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/alloca.h
+c000000004BBD2CE90000000000000588
+t1270689001
+s1416
+i<sys/cdefs.h>
+i<_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+i<sys/fcntl.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_limits.h
+c000000004CC3DE72000000000000042D
+t1287904882
+s1069
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_param.h
+c000000004CC3DE7200000000000007E0
+t1287904882
+s2016
+i<i386/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_structs.h
+c000000004CC3DE720000000000000CC7
+t1287904882
+s3271
+i<sys/appleapiopts.h>
+i<mach/i386/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h
+c000000004CC3DE720000000000001197
+t1287904882
+s4503
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/endian.h
+c000000004CC3DE7200000000000010DA
+t1287904882
+s4314
+i<sys/cdefs.h>
+i<sys/_endian.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/signal.h
+c000000004CC3DE72000000000000084C
+t1287904882
+s2124
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<i386/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/types.h
+c000000004CC3DE720000000000001363
+t1287904882
+s4963
+i<i386/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/libkern/_OSByteOrder.h
+c000000004CC3DE6500000000000010F0
+t1287904869
+s4336
+i<sys/_types.h>
+i<libkern/i386/_OSByteOrder.h>
+i<libkern/arm/OSByteOrder.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/libkern/i386/_OSByteOrder.h
+c000000004CC3DE720000000000000AA7
+t1287904882
+s2727
+
+N/SDKs/MacOSX10.6.sdk/usr/include/mach/i386/_structs.h
+c000000004CC3DE720000000000003DF1
+t1287904882
+s15857
+
+N/SDKs/MacOSX10.6.sdk/usr/include/mach/ppc/_structs.h
+c000000004CC3DE6E0000000000002D97
+t1287904878
+s11671
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_limits.h
+c000000004CC3DE650000000000000688
+t1287904869
+s1672
+i"ppc/_limits.h"
+i"i386/_limits.h"
+i"arm/_limits.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_param.h
+c000000004CC3DE65000000000000061F
+t1287904869
+s1567
+i"ppc/_param.h"
+i"i386/_param.h"
+i"arm/_param.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_structs.h
+c000000004CC3DE650000000000000625
+t1287904869
+s1573
+i"ppc/_structs.h"
+i"i386/_structs.h"
+i"arm/_structs.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_types.h
+c000000004CC3DE650000000000000682
+t1287904869
+s1666
+i"ppc/_types.h"
+i"i386/_types.h"
+i"arm/_types.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/endian.h
+c000000004CC3DE6400000000000006C3
+t1287904868
+s1731
+i"ppc/endian.h"
+i"i386/endian.h"
+i"arm/endian.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/signal.h
+c000000004CC3DE650000000000000682
+t1287904869
+s1666
+i"ppc/signal.h"
+i"i386/signal.h"
+i"arm/signal.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/types.h
+c000000004CC3DE6500000000000006BE
+t1287904869
+s1726
+i"ppc/types.h"
+i"i386/types.h"
+i"arm/types.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004BBD2D1D000000000000307F
+t1270689053
+s12415
+i<_types.h>
+i<stdint.h>
+i<netinet/in.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004CC3DE650000000000005414
+t1287904869
+s21524
+i<sys/appleapiopts.h>
+i<sys/_types.h>
+i<stdint.h>
+i<sys/socket.h>
+i<machine/endian.h>
+i<sys/_endian.h>
+i<netinet6/in6.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/netinet6/in6.h
+c000000004CC3DE650000000000004F5B
+t1287904869
+s20315
+i<sys/appleapiopts.h>
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_limits.h
+c000000004CC3DE6E000000000000042A
+t1287904878
+s1066
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_param.h
+c000000004CC3DE6E00000000000007DC
+t1287904878
+s2012
+i<ppc/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_structs.h
+c000000004CC3DE6E0000000000001CD0
+t1287904878
+s7376
+i<sys/cdefs.h>
+i<mach/ppc/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_types.h
+c000000004CC3DE6E0000000000001194
+t1287904878
+s4500
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/endian.h
+c000000004CC3DE6E00000000000015AE
+t1287904878
+s5550
+i<sys/cdefs.h>
+i<sys/_endian.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/signal.h
+c000000004CC3DE6E0000000000000AE1
+t1287904878
+s2785
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<ppc/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/types.h
+c000000004CC3DE6E0000000000001362
+t1287904878
+s4962
+i<ppc/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/secure/_common.h
+c000000004BBD2CE9000000000000058A
+t1270689001
+s1418
+
+N/SDKs/MacOSX10.6.sdk/usr/include/secure/_stdio.h
+c000000004BBD2CE90000000000000907
+t1270689001
+s2311
+i<secure/_common.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h
+c000000004BBD2CE9000000000000121C
+t1270689001
+s4636
+i<sys/cdefs.h>
+i<secure/_common.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/stdint.h
+c000000004A11EB3D000000000000190C
+t1242688317
+s6412
+
+N/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+i<_types.h>
+i<xlocale/_stdio.h>
+i<secure/_stdio.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+i<Availability.h>
+i<_types.h>
+i<sys/wait.h>
+i<alloca.h>
+i<_xlocale.h>
+i<machine/types.h>
+i<xlocale/_stdlib.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+i<_types.h>
+i<sys/cdefs.h>
+i<xlocale/_string.h>
+i<secure/_string.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/strings.h
+c000000004BBD2CE90000000000000DA4
+t1270689001
+s3492
+i<sys/cdefs.h>
+i<string.h>
+i<_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_endian.h
+c000000004CC3DE6800000000000017B2
+t1287904872
+s6066
+i<sys/cdefs.h>
+i<libkern/_OSByteOrder.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_select.h
+c000000004CC3DE6800000000000008F6
+t1287904872
+s2294
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_structs.h
+c000000004CC3DE680000000000001EE6
+t1287904872
+s7910
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<machine/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h
+c000000004CC3DE680000000000001845
+t1287904872
+s6213
+i<sys/cdefs.h>
+i<machine/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/appleapiopts.h
+c000000004CC3DE650000000000000816
+t1287904869
+s2070
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/cdefs.h
+c000000004CC3DE650000000000005623
+t1287904869
+s22051
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/fcntl.h
+c000000004CC3DE6600000000000042E3
+t1287904870
+s17123
+i<sys/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/resource.h
+c000000004CC3DE670000000000002478
+t1287904871
+s9336
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004CC3DE6700000000000016A2
+t1287904871
+s5794
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+i<sys/_select.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/signal.h
+c000000004CC3DE670000000000003DEB
+t1287904871
+s15851
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<machine/signal.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004CC3DE6800000000000059BC
+t1287904872
+s22972
+i<sys/types.h>
+i<sys/cdefs.h>
+i<machine/_param.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/stat.h
+c000000004CC3DE680000000000004A1D
+t1287904872
+s18973
+i<sys/_types.h>
+i<sys/cdefs.h>
+i<Availability.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004CC3DE680000000000001E17
+t1287904872
+s7703
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+i<time.h>
+i<sys/_select.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004CC3DE680000000000002905
+t1287904872
+s10501
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<machine/types.h>
+i<sys/_types.h>
+i<machine/endian.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004CC3DE680000000000001126
+t1287904872
+s4390
+i<sys/cdefs.h>
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/unistd.h
+c000000004CC3DE680000000000001D15
+t1287904872
+s7445
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/wait.h
+c000000004CC3DE68000000000000273C
+t1287904872
+s10044
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/signal.h>
+i<sys/resource.h>
+i<machine/endian.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+i<_types.h>
+i<_structs.h>
+i<machine/_limits.h>
+i<xlocale/_time.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+i<_types.h>
+i<sys/unistd.h>
+i<sys/select.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_stdio.h
+c000000004BBD2CE90000000000000C1A
+t1270689001
+s3098
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_stdlib.h
+c000000004BBD2CE90000000000000A4C
+t1270689001
+s2636
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_string.h
+c000000004BBD2CE90000000000000572
+t1270689001
+s1394
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_time.h
+c000000004BBD2CE90000000000000578
+t1270689001
+s1400
+
+N/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy
+t1352171942
+s174472
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/networks.o
+t1352171545
+s8984
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.LinkFileList
+c0000000050987EF400000000000000D1
+t1352171252
+s209
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o
+t1352171252
+s8640
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o
+t1352171685
+s10788
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.LinkFileList
+c0000000050987F1900000000000000D5
+t1352171289
+s213
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o
+t1352171289
+s10168
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h
+c0000000050811AC00000000000000E16
+t1350638272
+s3606
+i<sys/types.h>
+i<sys/socket.h>
+i<sys/select.h>
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a
+c0000000050811AC00000000000096378
+t1350638272
+s615288
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h
+c0000000050987C150000000000000356
+t1352170517
+s854
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c
+c000000005098BAF200000000000013FD
+t1352186610
+s5117
+i<stdlib.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<sys/uio.h>
+i<sys/time.h>
+i<unistd.h>
+i<fcntl.h>
+i<string.h>
+i<strings.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<netdb.h>
+i"networks.h"
+i"cpe464.h"
+i"rcopy.h"
+
+N/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.h
+c0000000050986B3D0000000000000159
+t1352166205
+s345
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy
+t1353376904
+s231840
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o
+t1353376878
+s11892
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.LinkFileList
+c00000000509A28B400000000000000DD
+t1352280244
+s221
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o
+t1353372493
+s15008
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/cpe464.h
+c0000000050811AC00000000000000E16
+t1350638272
+s3606
+i<sys/types.h>
+i<sys/socket.h>
+i<sys/select.h>
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a
+c00000000509A3DA600000000000822D0
+t1352285606
+s533200
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c
+i"networks.h"
+i"cpe464.h"
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.h
+c0000000050AAE46C00000000000004D1
+t1353376876
+s1233
+i<stdio.h>
+i<stdlib.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<sys/uio.h>
+i<sys/time.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/wait.h>
+i<string.h>
+i<strings.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<netdb.h>
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c
+c0000000050AAD34D0000000000001D6D
+t1353372493
+s7533
+i"rcopy.h"
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.h
+c0000000050AAD30100000000000005F3
+t1353372417
+s1523
+i"networks.h"
+i"cpe464.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies375069743#375069743#0(0"0(0#1#0"4317974528#0"0#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/networks.o //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c normal i386 c com.apple.compilers.gcc.4_2
+s373864345.783976
+e373864345.851157
+r1
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/i386/networks.o
+x//Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c373864345#373864345#0(0"0(0#0#49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c4317974528#1253"    cd /Users/Shadow/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/i386 -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c -o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/networks.o0#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c normal i386 c com.apple.compilers.gcc.4_2
+s373864052.796556
+e373864052.853393
+r1
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o
+x/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:23: warning: ISO C forbids forward references to 'enum' types
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:175: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:180: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'
+lSLF07#2@54"Compile /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373864052#373864052#0(435"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:23: warning: ISO C forbids forward references to 'enum' types/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:175: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:180: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'3(22@48"ISO C forbids forward references to 'enum' types373864052#0#109#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373863468#23#0#23#0#0"0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'373864052#183#126#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373863468#175#0#175#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'373864052#309#126#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373863468#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c4317974528#1246"    cd /Users/Shadow/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/i386 -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c -o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o0#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c normal i386 c com.apple.compilers.llvmgcc42
+s373860315.388565
+e373860315.684142
+r0
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o
+x/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:12:19: error: fctnl.h: No such file or directory
+oIn file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:19:
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:23: error: expected identifier or '(' before '/' token
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:38: warning: empty declaration
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:40: error: expected identifier or '(' before '/' token
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:47: warning: empty declaration
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:49: error: expected identifier or '(' before '/' token
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:54: warning: empty declaration
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:59: error: expected specifier-qualifier-list before '/' token
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:71: error: expected identifier or '(' before '/' token
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:75: error: expected identifier or '(' before '/' token
+oIn file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:20:
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:32: error: expected identifier or '(' before '/' token
+oIn file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:20:
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:106:18: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:107:20: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:109:18: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:110:20: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:113:18: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:114:22: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:117:28: warning: anonymous variadic macros were introduced in C99
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:23: warning: ISO C forbids forward references to 'enum' types
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'server'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'main':
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: warning: implicit declaration of function 'udp_client_setup'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: error: 'server' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: error: (Each undeclared identifier is reported only once
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: error: for each function it appears in.)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:70: error: 'O_CREATE' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'filename':
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:97: error: 'MAX_LEN' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:107: warning: implicit declaration of function 'send_buf'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:107: error: 'server' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:107: error: 'FNAME' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:109: warning: implicit declaration of function 'select_call'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:109: error: 'NOT_NULL' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:110: warning: implicit declaration of function 'recv_buf'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:110:58: error: invalid suffix "server" on integer constant
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:113: error: 'CRC_ERROR' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:117: error: 'FNAME_BAD' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:98: warning: unused variable 'buf'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:97: warning: unused variable 'packet'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'recv_data':
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:132: error: 'MAX_LEN' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:134: error: 'START_SEQ_NUM' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:136: error: 'server' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:136: error: 'NOT_NULL' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:141:55: error: invalid suffix "server" on integer constant
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:144: error: 'CRC_ERROR' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:149: error: 'ACK' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:151: error: 'END_OF_FILE' undeclared (first use in this function)
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:133: warning: unused variable 'packet'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:132: warning: unused variable 'data_buf'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:175: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:180: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'
+lSLF07#2@54"Compile /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#373860315#0(5692"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:12:19: error: fctnl.h: No such file or directoryIn file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:19:/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:23: error: expected identifier or '(' before '/' token/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:38: warning: empty declaration/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:40: error: expected identifier or '(' before '/' token/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:47: warning: empty declaration/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:49: error: expected identifier or '(' before '/' token/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:54: warning: empty declaration/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:59: error: expected specifier-qualifier-list before '/' token/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:71: error: expected identifier or '(' before '/' token/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h:75: error: expected identifier or '(' before '/' tokenIn file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:20:/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:32: error: expected identifier or '(' before '/' tokenIn file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:20:/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:106:18: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:107:20: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:109:18: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:110:20: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:113:18: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:114:22: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h:117:28: warning: anonymous variadic macros were introduced in C99/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:23: warning: ISO C forbids forward references to 'enum' types/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'server'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'main':/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: warning: implicit declaration of function 'udp_client_setup'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: error: 'server' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: error: (Each undeclared identifier is reported only once/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:50: error: for each function it appears in.)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:70: error: 'O_CREATE' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'filename':/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:97: error: 'MAX_LEN' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:107: warning: implicit declaration of function 'send_buf'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:107: error: 'server' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:107: error: 'FNAME' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:109: warning: implicit declaration of function 'select_call'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:109: error: 'NOT_NULL' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:110: warning: implicit declaration of function 'recv_buf'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:110:58: error: invalid suffix "server" on integer constant/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:113: error: 'CRC_ERROR' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:117: error: 'FNAME_BAD' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:98: warning: unused variable 'buf'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:97: warning: unused variable 'packet'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'recv_data':/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:132: error: 'MAX_LEN' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:134: error: 'START_SEQ_NUM' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:136: error: 'server' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:136: error: 'NOT_NULL' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:141:55: error: invalid suffix "server" on integer constant/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:144: error: 'CRC_ERROR' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:149: error: 'ACK' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:151: error: 'END_OF_FILE' undeclared (first use in this function)/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:133: warning: unused variable 'packet'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:132: warning: unused variable 'data_buf'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:175: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:180: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'47(4@34"Fctnl.h: No such file or directory373860315#0#96#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#12#0#12#0#28"*: No such file or directory0(4@43"Expected identifier or '(' before '/' token373860315#169#105#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@96"Expected identifier or '(' before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#23#0#23#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#23#0#23#0#19"expected * before *0(22@17"Empty declaration373860315#274#81#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@70"Empty declaration in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#38#0#38#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#38#0#38#0#0"0(4@43"Expected identifier or '(' before '/' token373860315#355#105#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@96"Expected identifier or '(' before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#40#0#40#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#40#0#40#0#19"expected * before *0(22@17"Empty declaration373860315#460#81#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@70"Empty declaration in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#47#0#47#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#47#0#47#0#0"0(4@43"Expected identifier or '(' before '/' token373860315#541#105#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@96"Expected identifier or '(' before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#49#0#49#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#49#0#49#0#19"expected * before *0(22@17"Empty declaration373860315#646#81#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@70"Empty declaration in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#54#0#54#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#54#0#54#0#0"0(4@50"Expected specifier-qualifier-list before '/' token373860315#727#112#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@103"Expected specifier-qualifier-list before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#59#0#59#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#59#0#59#0#19"expected * before *0(4@43"Expected identifier or '(' before '/' token373860315#839#105#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@96"Expected identifier or '(' before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#71#0#71#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#71#0#71#0#19"expected * before *0(4@43"Expected identifier or '(' before '/' token373860315#944#105#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#19#0#19#0#0"0(13@96"Expected identifier or '(' before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h373860315#18446744073709551615#0#0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#75#0#75#0#0"0(6@49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.h372392006#75#0#75#0#19"expected * before *0(4@43"Expected identifier or '(' before '/' token373860315#1122#103#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@94"Expected identifier or '(' before '/' token in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#32#0#32#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#32#0#32#0#19"expected * before *0(22@48"Anonymous variadic macros were introduced in C99373860315#1298#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#106#0#106#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#106#0#106#0#0"0(22@48"Anonymous variadic macros were introduced in C99373860315#1412#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#107#0#107#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#107#0#107#0#0"0(22@48"Anonymous variadic macros were introduced in C99373860315#1526#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#109#0#109#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#109#0#109#0#0"0(22@48"Anonymous variadic macros were introduced in C99373860315#1640#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#110#0#110#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#110#0#110#0#0"0(22@48"Anonymous variadic macros were introduced in C99373860315#1754#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#113#0#113#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#113#0#113#0#0"0(22@48"Anonymous variadic macros were introduced in C99373860315#1868#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#114#0#114#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#114#0#114#0#0"0(22@48"Anonymous variadic macros were introduced in C99373860315#1982#114#2(7@68"In file included from /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860315#18446744073709551615#0#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#20#0#20#0#0"0(13@99"Anonymous variadic macros were introduced in C99 in /Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h373860315#18446744073709551615#0#0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#117#0#117#0#0"0(6@47"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/cpe464.h372331072#117#0#117#0#0"0(22@48"ISO C forbids forward references to 'enum' types373860315#2096#109#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#23#0#23#0#0"0(4@64"Expected '=', ',', ';', 'asm' or '__attribute__' before 'server'373860315#2205#123#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#33#0#33#0#19"expected * before *0(22@51"Implicit declaration of function 'udp_client_setup'373860315#2396#112#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#50#0#50#0#36"implicit declaration of function '*'0(4@48"'server' undeclared (first use in this function)373860315#2508#107#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#50#0#50#0#43"'*' undeclared (first use in this function)0(4@50"'O_CREATE' undeclared (first use in this function)373860315#2815#109#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#70#0#70#0#43"'*' undeclared (first use in this function)0(4@49"'MAX_LEN' undeclared (first use in this function)373860315#2996#108#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#97#0#97#0#43"'*' undeclared (first use in this function)0(22@43"Implicit declaration of function 'send_buf'373860315#3104#105#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#107#0#107#0#36"implicit declaration of function '*'0(4@48"'server' undeclared (first use in this function)373860315#3209#108#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#107#0#107#0#43"'*' undeclared (first use in this function)0(4@47"'FNAME' undeclared (first use in this function)373860315#3317#107#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#107#0#107#0#43"'*' undeclared (first use in this function)0(22@46"Implicit declaration of function 'select_call'373860315#3424#108#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#109#0#109#0#36"implicit declaration of function '*'0(4@50"'NOT_NULL' undeclared (first use in this function)373860315#3532#110#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#109#0#109#0#43"'*' undeclared (first use in this function)0(22@43"Implicit declaration of function 'recv_buf'373860315#3642#105#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#110#0#110#0#36"implicit declaration of function '*'0(4@43"Invalid suffix "server" on integer constant373860315#3747#106#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#110#0#110#0#0"0(4@51"'CRC_ERROR' undeclared (first use in this function)373860315#3853#111#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#113#0#113#0#43"'*' undeclared (first use in this function)0(4@51"'FNAME_BAD' undeclared (first use in this function)373860315#3964#111#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#117#0#117#0#43"'*' undeclared (first use in this function)0(22@21"Unused variable 'buf'373860315#4075#82#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#98#0#98#0#19"unused variable '*'0(22@24"Unused variable 'packet'373860315#4157#85#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#97#0#97#0#19"unused variable '*'0(4@49"'MAX_LEN' undeclared (first use in this function)373860315#4315#109#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#132#0#132#0#43"'*' undeclared (first use in this function)0(4@55"'START_SEQ_NUM' undeclared (first use in this function)373860315#4424#115#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#134#0#134#0#43"'*' undeclared (first use in this function)0(4@48"'server' undeclared (first use in this function)373860315#4539#108#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#136#0#136#0#43"'*' undeclared (first use in this function)0(4@50"'NOT_NULL' undeclared (first use in this function)373860315#4647#110#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#136#0#136#0#43"'*' undeclared (first use in this function)0(4@43"Invalid suffix "server" on integer constant373860315#4757#106#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#141#0#141#0#0"0(4@51"'CRC_ERROR' undeclared (first use in this function)373860315#4863#111#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#144#0#144#0#43"'*' undeclared (first use in this function)0(4@45"'ACK' undeclared (first use in this function)373860315#4974#105#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#149#0#149#0#43"'*' undeclared (first use in this function)0(4@53"'END_OF_FILE' undeclared (first use in this function)373860315#5079#113#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#151#0#151#0#43"'*' undeclared (first use in this function)0(22@24"Unused variable 'packet'373860315#5192#86#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#133#0#133#0#19"unused variable '*'0(22@26"Unused variable 'data_buf'373860315#5278#88#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#132#0#132#0#19"unused variable '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'373860315#5440#126#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#175#0#175#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'373860315#5566#126#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373860314#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c4317974528#1248"    cd /Users/Shadow/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -ansi -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/i386 -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c -o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.o1#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c normal x86_64 c com.apple.compilers.gcc.4_2
+s373972597.869893
+e373972597.875977
+r0
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o
+x//Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@58"Compile //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c373972597#373972597#0(287"i686-apple-darwin10-gcc-4.2.1: //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /usr/bin/gcc-4.2 failed with exit code 11(4@48"Command /usr/bin/gcc-4.2 failed with exit code 1373972597#18446744073709551615#0#0(1@0"0(0#0#49"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c4317974528#1299"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/x86_64 -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c //Users/Shadow/Dropbox/CPE464/FTP/rcopy/networks.c -o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o1#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o //Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375069677.639450
+e375069678.047988
+r1
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o
+x//Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile //Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c375069677#375069678#0(0"0(0#0#53"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c4317974528#1303"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/x86_64 -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c //Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c -o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o0#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/networks.o //Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/networks.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c normal x86_64 c com.apple.compilers.gcc.4_2
+s373864089.279113
+e373864089.331835
+r1
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o
+x/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:23: warning: ISO C forbids forward references to 'enum' types
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:175: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'
+o/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:180: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'
+lSLF07#2@54"Compile /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373864089#373864089#0(435"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:23: warning: ISO C forbids forward references to 'enum' types/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:175: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c:180: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'3(22@48"ISO C forbids forward references to 'enum' types373864089#0#109#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373863468#23#0#23#0#0"0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'373864089#183#126#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373863468#175#0#175#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'373864089#309#126#0(6@46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c373863468#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#46"/Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c4317974528#1252"    cd /Users/Shadow/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/x86_64 -I/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c /Users/Shadow/Dropbox/CPE464/FTP/rcopy/rcopy.c -o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o0#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375065294.680729
+e375065294.681770
+r1
+xCompileC
+xbuild/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o
+x/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c375065294#375065294#0(527"In file included from /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c:6:/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.h:14: warning: ISO C forbids forward references to 'enum' types/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c: In function 'check_args':/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c:249: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c:254: warning: format '%d' expects type 'int', but argument 2 has type 'size_t'3(22@48"ISO C forbids forward references to 'enum' types375065294#76#113#2(7@72"In file included from /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c375065294#18446744073709551615#0#0(6@50"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c375065293#6#0#6#0#0"0(13@102"ISO C forbids forward references to 'enum' types in /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.h375065294#18446744073709551615#0#0(6@50"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.h375065217#14#0#14#0#0"0(6@50"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.h375065217#14#0#14#0#0"0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'375065294#267#130#0(6@50"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c375065293#249#0#249#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'size_t'375065294#397#130#0(6@50"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c375065293#254#0#254#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#50"/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c4317974528#1296"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-generated-files.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-own-target-headers.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-all-target-headers.hmap -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/rcopy-project-headers.hmap -F/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/include -I/usr/local/include -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources/x86_64 -I/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/DerivedSources -pedantic -Wall -c /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c -o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o0#
+
+CCompileC build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/rcopy.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy normal i386
+s373864637.445868
+e373864637.467093
+r0
+xLd
+x/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy
+xnormal
+xi386
+old: warning: ignoring file /Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a, file was built for archive which is not the architecture being linked (i386): /Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a
+oUndefined symbols for architecture i386:
+o  "_bindMod", referenced from:
+o      _udp_server in networks.o
+o  "_in_cksum", referenced from:
+o      _send_buf in networks.o
+o      _recv_buf in networks.o
+o  "_recvfromErr", referenced from:
+o      _recv_buf in networks.o
+o  "_selectMod", referenced from:
+o      _select_call in networks.o
+o  "_sendErr_init", referenced from:
+o      _main in rcopy.o
+o  "_sendtoErr", referenced from:
+o      _send_buf in networks.o
+old: symbol(s) not found for architecture i386
+ocollect2: ld returned 1 exit status
+lSLF07#2@61"Link /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy373864637#373864637#0(749"ld: warning: ignoring file /Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a, file was built for archive which is not the architecture being linked (i386): /Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.aUndefined symbols for architecture i386:  "_bindMod", referenced from:      _udp_server in networks.o  "_in_cksum", referenced from:      _send_buf in networks.o      _recv_buf in networks.o  "_recvfromErr", referenced from:      _recv_buf in networks.o  "_selectMod", referenced from:      _select_call in networks.o  "_sendErr_init", referenced from:      _main in rcopy.o  "_sendtoErr", referenced from:      _send_buf in networks.old: symbol(s) not found for architecture i386collect2: ld returned 1 exit status16(22@204"Ignoring file /Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a, file was built for archive which is not the architecture being linked (i386): /Users/Shadow/Dropbox/CPE464/FTP/rcopy/libcpe464.2.11.a373864637#0#218#0(6@0"373864637#0#0#0#0#0"0(4@28""_bindMod", referenced from:373864637#259#31#0(6@0"373864637#0#0#0#0#0"0(13@25"_udp_server in networks.o373864637#290#32#0(6@0"373864637#0#0#0#0#0"0(4@29""_in_cksum", referenced from:373864637#322#32#0(6@0"373864637#0#0#0#0#0"0(13@23"_send_buf in networks.o373864637#354#30#0(6@0"373864637#0#0#0#0#0"0(13@23"_recv_buf in networks.o373864637#384#30#0(6@0"373864637#0#0#0#0#0"0(4@32""_recvfromErr", referenced from:373864637#414#35#0(6@0"373864637#0#0#0#0#0"0(13@23"_recv_buf in networks.o373864637#449#30#0(6@0"373864637#0#0#0#0#0"0(4@30""_selectMod", referenced from:373864637#479#33#0(6@0"373864637#0#0#0#0#0"0(13@26"_select_call in networks.o373864637#512#33#0(6@0"373864637#0#0#0#0#0"0(4@33""_sendErr_init", referenced from:373864637#545#36#0(6@0"373864637#0#0#0#0#0"0(13@16"_main in rcopy.o373864637#581#23#0(6@0"373864637#0#0#0#0#0"0(4@30""_sendtoErr", referenced from:373864637#604#33#0(6@0"373864637#0#0#0#0#0"0(13@23"_send_buf in networks.o373864637#637#30#0(6@0"373864637#0#0#0#0#0"0(13@41"Symbol(s) not found for architecture i386373864637#667#46#0(6@0"373864637#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status373864637#713#36#0(6@0"373864637#0#0#0#0#0"0(0#0#0"4317974528#567"    cd /Users/Shadow/Dropbox/CPE464/FTP/rcopy    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /usr/bin/gcc-4.2 -arch i386 -isysroot /SDKs/MacOSX10.5.sdk -L/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -L/SDKs/MacOSX10.5.sdk/usr/local/lib -L/Users/Shadow/Dropbox/CPE464/FTP/rcopy -F/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -filelist /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/i386/rcopy.LinkFileList -mmacosx-version-min=10.5 -lstdc++ -lcpe464.2.11 -o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy1#
+
+CLd /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy normal x86_64
+s373864742.698268
+e373864742.727875
+r1
+xLd
+x/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy
+xnormal
+xx86_64
+lSLF07#2@61"Link /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy373864742#373864742#0(0"0(0#0#0"4317974528#571"    cd /Users/Shadow/Dropbox/CPE464/FTP/rcopy    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /usr/bin/gcc-4.2 -arch x86_64 -isysroot /SDKs/MacOSX10.5.sdk -L/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -L/SDKs/MacOSX10.5.sdk/usr/local/lib -L/Users/Shadow/Dropbox/CPE464/FTP/rcopy -F/Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug -filelist /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.LinkFileList -mmacosx-version-min=10.5 -lstdc++ -lcpe464.2.11 -o /Users/Shadow/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy0#
+
+CLd /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy normal x86_64
+s375069704.302173
+e375069704.370652
+r1
+xLd
+x/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy
+xnormal
+xx86_64
+old: warning: directory '/usr/local/lib' following -L not found
+old: warning: directory '/Users/Shadow/Dropbox/CPE464/FTP/rcopy' following -L not found
+lSLF07#2@65"Link /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy375069704#375069704#0(150"ld: warning: directory '/usr/local/lib' following -L not foundld: warning: directory '/Users/Shadow/Dropbox/CPE464/FTP/rcopy' following -L not found2(22@49"Directory '/usr/local/lib' following -L not found375069704#0#63#0(6@0"375069704#0#0#0#0#0"0(22@73"Directory '/Users/Shadow/Dropbox/CPE464/FTP/rcopy' following -L not found375069704#63#87#0(6@0"375069704#0#0#0#0#0"0(0#0#0"4317974528#616"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /usr/bin/gcc-4.2 -arch x86_64 -isysroot /SDKs/MacOSX10.6.sdk -L/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug -L/usr/local/lib -L/Users/Shadow/Dropbox/CPE464/FTP/rcopy -L/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy -F/Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug -filelist /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/rcopy.build/Debug/rcopy.build/Objects-normal/x86_64/rcopy.LinkFileList -mmacosx-version-min=10.6 -lstdc++ -lcpe464.2.11 -o /Users/minhnguyen/Dropbox/CPE464/FTP/rcopy/build/Debug/rcopy0#
+

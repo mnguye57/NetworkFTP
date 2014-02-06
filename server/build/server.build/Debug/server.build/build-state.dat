@@ -1,0 +1,808 @@
+Tserver
+v7
+r0
+t375069741.779907
+cCheck dependencies
+cCompileC build/server.build/Debug/server.build/Objects-normal/x86_64/server.o /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o //Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server normal x86_64
+
+N//Users/Shadow/Dropbox/CPE464/FTP/server/networks.c
+c0000000050987BFE0000000000001185
+t1352170494
+s4485
+
+N//Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c
+c0000000050AAC8850000000000001094
+t1353369733
+s4244
+
+N/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/SDKs/MacOSX10.6.sdk/usr/include/Availability.h
+c000000004A11A9B300000000000019DB
+t1242671539
+s6619
+i<AvailabilityInternal.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/AvailabilityInternal.h
+c000000004A11A9B3000000000000456C
+t1242671539
+s17772
+
+N/SDKs/MacOSX10.6.sdk/usr/include/_structs.h
+c000000004BBD2CE900000000000003EF
+t1270689001
+s1007
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/_types.h
+c000000004BBD2CE90000000000000890
+t1270689001
+s2192
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/_xlocale.h
+c000000004BBD2CE90000000000000486
+t1270689001
+s1158
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/alloca.h
+c000000004BBD2CE90000000000000588
+t1270689001
+s1416
+i<sys/cdefs.h>
+i<_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+i<sys/fcntl.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_limits.h
+c000000004CC3DE72000000000000042D
+t1287904882
+s1069
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_param.h
+c000000004CC3DE7200000000000007E0
+t1287904882
+s2016
+i<i386/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_structs.h
+c000000004CC3DE720000000000000CC7
+t1287904882
+s3271
+i<sys/appleapiopts.h>
+i<mach/i386/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h
+c000000004CC3DE720000000000001197
+t1287904882
+s4503
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/endian.h
+c000000004CC3DE7200000000000010DA
+t1287904882
+s4314
+i<sys/cdefs.h>
+i<sys/_endian.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/signal.h
+c000000004CC3DE72000000000000084C
+t1287904882
+s2124
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<i386/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/i386/types.h
+c000000004CC3DE720000000000001363
+t1287904882
+s4963
+i<i386/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/libkern/_OSByteOrder.h
+c000000004CC3DE6500000000000010F0
+t1287904869
+s4336
+i<sys/_types.h>
+i<libkern/i386/_OSByteOrder.h>
+i<libkern/arm/OSByteOrder.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/libkern/i386/_OSByteOrder.h
+c000000004CC3DE720000000000000AA7
+t1287904882
+s2727
+
+N/SDKs/MacOSX10.6.sdk/usr/include/mach/i386/_structs.h
+c000000004CC3DE720000000000003DF1
+t1287904882
+s15857
+
+N/SDKs/MacOSX10.6.sdk/usr/include/mach/ppc/_structs.h
+c000000004CC3DE6E0000000000002D97
+t1287904878
+s11671
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_limits.h
+c000000004CC3DE650000000000000688
+t1287904869
+s1672
+i"ppc/_limits.h"
+i"i386/_limits.h"
+i"arm/_limits.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_param.h
+c000000004CC3DE65000000000000061F
+t1287904869
+s1567
+i"ppc/_param.h"
+i"i386/_param.h"
+i"arm/_param.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_structs.h
+c000000004CC3DE650000000000000625
+t1287904869
+s1573
+i"ppc/_structs.h"
+i"i386/_structs.h"
+i"arm/_structs.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/_types.h
+c000000004CC3DE650000000000000682
+t1287904869
+s1666
+i"ppc/_types.h"
+i"i386/_types.h"
+i"arm/_types.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/endian.h
+c000000004CC3DE6400000000000006C3
+t1287904868
+s1731
+i"ppc/endian.h"
+i"i386/endian.h"
+i"arm/endian.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/signal.h
+c000000004CC3DE650000000000000682
+t1287904869
+s1666
+i"ppc/signal.h"
+i"i386/signal.h"
+i"arm/signal.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/machine/types.h
+c000000004CC3DE6500000000000006BE
+t1287904869
+s1726
+i"ppc/types.h"
+i"i386/types.h"
+i"arm/types.h"
+
+N/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004BBD2D1D000000000000307F
+t1270689053
+s12415
+i<_types.h>
+i<stdint.h>
+i<netinet/in.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004CC3DE650000000000005414
+t1287904869
+s21524
+i<sys/appleapiopts.h>
+i<sys/_types.h>
+i<stdint.h>
+i<sys/socket.h>
+i<machine/endian.h>
+i<sys/_endian.h>
+i<netinet6/in6.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/netinet6/in6.h
+c000000004CC3DE650000000000004F5B
+t1287904869
+s20315
+i<sys/appleapiopts.h>
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_limits.h
+c000000004CC3DE6E000000000000042A
+t1287904878
+s1066
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_param.h
+c000000004CC3DE6E00000000000007DC
+t1287904878
+s2012
+i<ppc/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_structs.h
+c000000004CC3DE6E0000000000001CD0
+t1287904878
+s7376
+i<sys/cdefs.h>
+i<mach/ppc/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/_types.h
+c000000004CC3DE6E0000000000001194
+t1287904878
+s4500
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/endian.h
+c000000004CC3DE6E00000000000015AE
+t1287904878
+s5550
+i<sys/cdefs.h>
+i<sys/_endian.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/signal.h
+c000000004CC3DE6E0000000000000AE1
+t1287904878
+s2785
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<ppc/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/ppc/types.h
+c000000004CC3DE6E0000000000001362
+t1287904878
+s4962
+i<ppc/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/secure/_common.h
+c000000004BBD2CE9000000000000058A
+t1270689001
+s1418
+
+N/SDKs/MacOSX10.6.sdk/usr/include/secure/_stdio.h
+c000000004BBD2CE90000000000000907
+t1270689001
+s2311
+i<secure/_common.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h
+c000000004BBD2CE9000000000000121C
+t1270689001
+s4636
+i<sys/cdefs.h>
+i<secure/_common.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+i<_types.h>
+i<xlocale/_stdio.h>
+i<secure/_stdio.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+i<Availability.h>
+i<_types.h>
+i<sys/wait.h>
+i<alloca.h>
+i<_xlocale.h>
+i<machine/types.h>
+i<xlocale/_stdlib.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+i<_types.h>
+i<sys/cdefs.h>
+i<xlocale/_string.h>
+i<secure/_string.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/strings.h
+c000000004BBD2CE90000000000000DA4
+t1270689001
+s3492
+i<sys/cdefs.h>
+i<string.h>
+i<_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_endian.h
+c000000004CC3DE6800000000000017B2
+t1287904872
+s6066
+i<sys/cdefs.h>
+i<libkern/_OSByteOrder.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_select.h
+c000000004CC3DE6800000000000008F6
+t1287904872
+s2294
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_structs.h
+c000000004CC3DE680000000000001EE6
+t1287904872
+s7910
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<machine/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h
+c000000004CC3DE680000000000001845
+t1287904872
+s6213
+i<sys/cdefs.h>
+i<machine/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/appleapiopts.h
+c000000004CC3DE650000000000000816
+t1287904869
+s2070
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/cdefs.h
+c000000004CC3DE650000000000005623
+t1287904869
+s22051
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/fcntl.h
+c000000004CC3DE6600000000000042E3
+t1287904870
+s17123
+i<sys/_types.h>
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/resource.h
+c000000004CC3DE670000000000002478
+t1287904871
+s9336
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004CC3DE6700000000000016A2
+t1287904871
+s5794
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+i<sys/_select.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/signal.h
+c000000004CC3DE670000000000003DEB
+t1287904871
+s15851
+i<sys/cdefs.h>
+i<sys/appleapiopts.h>
+i<machine/signal.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004CC3DE6800000000000059BC
+t1287904872
+s22972
+i<sys/types.h>
+i<sys/cdefs.h>
+i<machine/_param.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/stat.h
+c000000004CC3DE680000000000004A1D
+t1287904872
+s18973
+i<sys/_types.h>
+i<sys/cdefs.h>
+i<Availability.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004CC3DE680000000000001E17
+t1287904872
+s7703
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/_structs.h>
+i<time.h>
+i<sys/_select.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004CC3DE680000000000002905
+t1287904872
+s10501
+i<sys/appleapiopts.h>
+i<sys/cdefs.h>
+i<machine/types.h>
+i<sys/_types.h>
+i<machine/endian.h>
+i<sys/_structs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004CC3DE680000000000001126
+t1287904872
+s4390
+i<sys/cdefs.h>
+i<sys/_types.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/unistd.h
+c000000004CC3DE680000000000001D15
+t1287904872
+s7445
+i<sys/cdefs.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/sys/wait.h
+c000000004CC3DE68000000000000273C
+t1287904872
+s10044
+i<sys/cdefs.h>
+i<sys/_types.h>
+i<sys/signal.h>
+i<sys/resource.h>
+i<machine/endian.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+i<_types.h>
+i<_structs.h>
+i<machine/_limits.h>
+i<xlocale/_time.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+i<_types.h>
+i<sys/unistd.h>
+i<sys/select.h>
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_stdio.h
+c000000004BBD2CE90000000000000C1A
+t1270689001
+s3098
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_stdlib.h
+c000000004BBD2CE90000000000000A4C
+t1270689001
+s2636
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_string.h
+c000000004BBD2CE90000000000000572
+t1270689001
+s1394
+
+N/SDKs/MacOSX10.6.sdk/usr/include/xlocale/_time.h
+c000000004BBD2CE90000000000000578
+t1270689001
+s1400
+
+N/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server
+t1352172008
+s174664
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/networks.o
+t1352171255
+s8988
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/server.LinkFileList
+c0000000050987EF700000000000000D8
+t1352171255
+s216
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/server.o
+t1352171629
+s9836
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o
+t1352171953
+s10792
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.LinkFileList
+c00000000509881B100000000000000DC
+t1352171953
+s220
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.o
+t1352171953
+s11612
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/cpe464.h
+c0000000050811AC00000000000000E16
+t1350638272
+s3606
+i<sys/types.h>
+i<sys/socket.h>
+i<sys/select.h>
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.a
+c0000000050811AC00000000000096378
+t1350638272
+s615288
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/networks.c
+i<stdio.h>
+i<stdlib.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<sys/uio.h>
+i<sys/time.h>
+i<unistd.h>
+i<fcntl.h>
+i<string.h>
+i<strings.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<netdb.h>
+i"networks.h"
+i"cpe464.h"
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/networks.h
+c0000000050987C150000000000000356
+t1352170517
+s854
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/server.c
+c000000005098806D0000000000001737
+t1352171629
+s5943
+i<stdlib.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<sys/uio.h>
+i<sys/time.h>
+i<unistd.h>
+i<fcntl.h>
+i<string.h>
+i<strings.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<netdb.h>
+i"networks.h"
+i"cpe464.h"
+i"server.h"
+
+N/Users/Shadow/Dropbox/CPE464/FTP/server/server.h
+c0000000050986B9E000000000000015A
+t1352166302
+s346
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server
+t1353376941
+s232096
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o
+t1353376941
+s11892
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.LinkFileList
+c0000000050AA0AEE00000000000000E4
+t1353321198
+s228
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.o
+t1353372102
+s14320
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/cpe464.h
+c0000000050811AC00000000000000E16
+t1350638272
+s3606
+i<sys/types.h>
+i<sys/socket.h>
+i<sys/select.h>
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/libcpe464.2.11.a
+c00000000509A3DA600000000000822D0
+t1352285606
+s533200
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c
+i<stdio.h>
+i<stdlib.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<sys/uio.h>
+i<sys/time.h>
+i<unistd.h>
+i<fcntl.h>
+i<string.h>
+i<strings.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<netdb.h>
+i"networks.h"
+i"cpe464.h"
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.h
+c0000000050AAE4AC00000000000004D0
+t1353376940
+s1232
+i<stdio.h>
+i<stdlib.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<sys/uio.h>
+i<sys/time.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/wait.h>
+i<string.h>
+i<strings.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<netdb.h>
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c
+c0000000050AAD0390000000000001DD2
+t1353371705
+s7634
+i"server.h"
+
+N/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.h
+c0000000050AAD1C50000000000000772
+t1353372101
+s1906
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies375069741#375069741#0(0"0(0#1#0"4317974528#0"0#
+
+CCompileC build/server.build/Debug/server.build/Objects-normal/i386/networks.o //Users/Shadow/Dropbox/CPE464/FTP/server/networks.c normal i386 c com.apple.compilers.gcc.4_2
+s373864055.774095
+e373864055.828518
+r1
+xCompileC
+xbuild/server.build/Debug/server.build/Objects-normal/i386/networks.o
+x//Users/Shadow/Dropbox/CPE464/FTP/server/networks.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile //Users/Shadow/Dropbox/CPE464/FTP/server/networks.c373864055#373864055#0(0"0(0#0#50"/Users/Shadow/Dropbox/CPE464/FTP/server/networks.c4317974528#1282"    cd /Users/Shadow/Dropbox/CPE464/FTP/server    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources/i386 -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources -pedantic -Wall -c //Users/Shadow/Dropbox/CPE464/FTP/server/networks.c -o /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/networks.o0#
+
+CCompileC build/server.build/Debug/server.build/Objects-normal/i386/server.o /Users/Shadow/Dropbox/CPE464/FTP/server/server.c normal i386 c com.apple.compilers.gcc.4_2
+s373864429.360254
+e373864429.410732
+r1
+xCompileC
+xbuild/server.build/Debug/server.build/Objects-normal/i386/server.o
+x/Users/Shadow/Dropbox/CPE464/FTP/server/server.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:23: warning: ISO C forbids forward references to 'enum' types
+o/Users/Shadow/Dropbox/CPE464/FTP/server/server.c: In function 'main':
+o/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:47: warning: unused variable 'len'
+lSLF07#2@56"Compile /Users/Shadow/Dropbox/CPE464/FTP/server/server.c373864429#373864429#0(265"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:23: warning: ISO C forbids forward references to 'enum' types/Users/Shadow/Dropbox/CPE464/FTP/server/server.c: In function 'main':/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:47: warning: unused variable 'len'2(22@48"ISO C forbids forward references to 'enum' types373864429#0#111#0(6@48"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c373864429#23#0#23#0#0"0(22@21"Unused variable 'len'373864429#181#84#0(6@48"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c373864429#47#0#47#0#19"unused variable '*'0(0#0#48"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c4317974528#1277"    cd /Users/Shadow/Dropbox/CPE464/FTP/server    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources/i386 -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources -pedantic -Wall -c /Users/Shadow/Dropbox/CPE464/FTP/server/server.c -o /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/server.o0#
+
+CCompileC build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o //Users/Shadow/Dropbox/CPE464/FTP/server/networks.c normal x86_64 c com.apple.compilers.gcc.4_2
+s373864753.839664
+e373864753.890131
+r1
+xCompileC
+xbuild/server.build/Debug/server.build/Objects-normal/x86_64/networks.o
+x//Users/Shadow/Dropbox/CPE464/FTP/server/networks.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile //Users/Shadow/Dropbox/CPE464/FTP/server/networks.c373864753#373864753#0(0"0(0#0#50"/Users/Shadow/Dropbox/CPE464/FTP/server/networks.c4317974528#1288"    cd /Users/Shadow/Dropbox/CPE464/FTP/server    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources/x86_64 -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources -pedantic -Wall -c //Users/Shadow/Dropbox/CPE464/FTP/server/networks.c -o /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o0#
+
+CCompileC build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o //Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375069741.703865
+e375069741.748001
+r1
+xCompileC
+xbuild/server.build/Debug/server.build/Objects-normal/x86_64/networks.o
+x//Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile //Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c375069741#375069741#0(0"0(0#0#54"/Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c4317974528#1332"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/server    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-generated-files.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-own-target-headers.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-all-target-headers.hmap -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-project-headers.hmap -F/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/include -I/usr/local/include -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources/x86_64 -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources -pedantic -Wall -c //Users/minhnguyen/Dropbox/CPE464/FTP/server/networks.c -o /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o0#
+
+CCompileC build/server.build/Debug/server.build/Objects-normal/x86_64/server.o /Users/Shadow/Dropbox/CPE464/FTP/server/server.c normal x86_64 c com.apple.compilers.gcc.4_2
+s373864753.839035
+e373864753.897157
+r1
+xCompileC
+xbuild/server.build/Debug/server.build/Objects-normal/x86_64/server.o
+x/Users/Shadow/Dropbox/CPE464/FTP/server/server.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:23: warning: ISO C forbids forward references to 'enum' types
+o/Users/Shadow/Dropbox/CPE464/FTP/server/server.c: In function 'main':
+o/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:47: warning: unused variable 'len'
+lSLF07#2@56"Compile /Users/Shadow/Dropbox/CPE464/FTP/server/server.c373864753#373864753#0(265"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:23: warning: ISO C forbids forward references to 'enum' types/Users/Shadow/Dropbox/CPE464/FTP/server/server.c: In function 'main':/Users/Shadow/Dropbox/CPE464/FTP/server/server.c:47: warning: unused variable 'len'2(22@48"ISO C forbids forward references to 'enum' types373864753#0#111#0(6@48"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c373864429#23#0#23#0#0"0(22@21"Unused variable 'len'373864753#181#84#0(6@48"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c373864429#47#0#47#0#19"unused variable '*'0(0#0#48"/Users/Shadow/Dropbox/CPE464/FTP/server/server.c4317974528#1283"    cd /Users/Shadow/Dropbox/CPE464/FTP/server    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-generated-files.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-own-target-headers.hmap -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-all-target-headers.hmap -iquote /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-project-headers.hmap -F/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/include -I/usr/local/include -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources/x86_64 -I/Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources -pedantic -Wall -c /Users/Shadow/Dropbox/CPE464/FTP/server/server.c -o /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.o0#
+
+CCompileC build/server.build/Debug/server.build/Objects-normal/x86_64/server.o /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375064902.242318
+e375064902.290928
+r1
+xCompileC
+xbuild/server.build/Debug/server.build/Objects-normal/x86_64/server.o
+x/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c:6:
+o/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.h:14: warning: ISO C forbids forward references to 'enum' types
+lSLF07#2@60"Compile /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c375064902#375064902#0(193"In file included from /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c:6:/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.h:14: warning: ISO C forbids forward references to 'enum' types1(22@48"ISO C forbids forward references to 'enum' types375064902#78#115#2(7@74"In file included from /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c375064902#18446744073709551615#0#0(6@52"/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c375064505#6#0#6#0#0"0(13@104"ISO C forbids forward references to 'enum' types in /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.h375064902#18446744073709551615#0#0(6@52"/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.h375064901#14#0#14#0#0"0(6@52"/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.h375064901#14#0#14#0#0"0(0#0#52"/Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c4317974528#1327"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/server    setenv LANG en_US.US-ASCII    /usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-generated-files.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-own-target-headers.hmap -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-all-target-headers.hmap -iquote /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/server-project-headers.hmap -F/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/include -I/usr/local/include -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources/x86_64 -I/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/DerivedSources -pedantic -Wall -c /Users/minhnguyen/Dropbox/CPE464/FTP/server/server.c -o /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.o0#
+
+CLd /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server normal i386
+s373864747.992689
+e373864748.009040
+r0
+xLd
+x/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server
+xnormal
+xi386
+old: warning: ignoring file /Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.a, file was built for archive which is not the architecture being linked (i386): /Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.a
+oUndefined symbols for architecture i386:
+o  "_bindMod", referenced from:
+o      _udp_server in networks.o
+o  "_in_cksum", referenced from:
+o      _send_buf in networks.o
+o      _recv_buf in networks.o
+o  "_recvfromErr", referenced from:
+o      _recv_buf in networks.o
+o  "_selectMod", referenced from:
+o      _select_call in networks.o
+o  "_sendErr_init", referenced from:
+o      _main in server.o
+o  "_sendtoErr", referenced from:
+o      _timeout_on_ack in server.o
+o      _send_buf in networks.o
+old: symbol(s) not found for architecture i386
+ocollect2: ld returned 1 exit status
+lSLF07#2@63"Link /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server373864747#373864748#0(786"ld: warning: ignoring file /Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.a, file was built for archive which is not the architecture being linked (i386): /Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.aUndefined symbols for architecture i386:  "_bindMod", referenced from:      _udp_server in networks.o  "_in_cksum", referenced from:      _send_buf in networks.o      _recv_buf in networks.o  "_recvfromErr", referenced from:      _recv_buf in networks.o  "_selectMod", referenced from:      _select_call in networks.o  "_sendErr_init", referenced from:      _main in server.o  "_sendtoErr", referenced from:      _timeout_on_ack in server.o      _send_buf in networks.old: symbol(s) not found for architecture i386collect2: ld returned 1 exit status17(22@206"Ignoring file /Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.a, file was built for archive which is not the architecture being linked (i386): /Users/Shadow/Dropbox/CPE464/FTP/server/libcpe464.2.11.a373864748#0#220#0(6@0"373864748#0#0#0#0#0"0(4@28""_bindMod", referenced from:373864748#261#31#0(6@0"373864748#0#0#0#0#0"0(13@25"_udp_server in networks.o373864748#292#32#0(6@0"373864748#0#0#0#0#0"0(4@29""_in_cksum", referenced from:373864748#324#32#0(6@0"373864748#0#0#0#0#0"0(13@23"_send_buf in networks.o373864748#356#30#0(6@0"373864748#0#0#0#0#0"0(13@23"_recv_buf in networks.o373864748#386#30#0(6@0"373864748#0#0#0#0#0"0(4@32""_recvfromErr", referenced from:373864748#416#35#0(6@0"373864748#0#0#0#0#0"0(13@23"_recv_buf in networks.o373864748#451#30#0(6@0"373864748#0#0#0#0#0"0(4@30""_selectMod", referenced from:373864748#481#33#0(6@0"373864748#0#0#0#0#0"0(13@26"_select_call in networks.o373864748#514#33#0(6@0"373864748#0#0#0#0#0"0(4@33""_sendErr_init", referenced from:373864748#547#36#0(6@0"373864748#0#0#0#0#0"0(13@17"_main in server.o373864748#583#24#0(6@0"373864748#0#0#0#0#0"0(4@30""_sendtoErr", referenced from:373864748#607#33#0(6@0"373864748#0#0#0#0#0"0(13@27"_timeout_on_ack in server.o373864748#640#34#0(6@0"373864748#0#0#0#0#0"0(13@23"_send_buf in networks.o373864748#674#30#0(6@0"373864748#0#0#0#0#0"0(13@41"Symbol(s) not found for architecture i386373864748#704#46#0(6@0"373864748#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status373864748#750#36#0(6@0"373864748#0#0#0#0#0"0(0#0#0"4317974528#568"    cd /Users/Shadow/Dropbox/CPE464/FTP/server    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /usr/bin/gcc-4.2 -arch i386 -isysroot /SDKs/MacOSX10.5.sdk -L/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -L/SDKs/MacOSX10.5.sdk/usr/local/lib -L/Users/Shadow/Dropbox/CPE464/FTP/server -F/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -filelist /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/server.LinkFileList -mmacosx-version-min=10.5 -lcpe464.2.11 -o /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server1#
+
+CLd /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server normal x86_64
+s373864808.961668
+e373864808.991503
+r1
+xLd
+x/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server373864808#373864808#0(0"0(0#0#0"4317974528#581"    cd /Users/Shadow/Dropbox/CPE464/FTP/server    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /usr/bin/gcc-4.2 -arch x86_64 -isysroot /SDKs/MacOSX10.5.sdk -L/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -L/SDKs/MacOSX10.5.sdk/usr/local/lib -L/Users/Shadow/Dropbox/CPE464/FTP/server -F/Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug -filelist /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.LinkFileList -mmacosx-version-min=10.5 -lstdc++ -lcpe464.2.11 -o /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server0#
+
+CLd /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server normal x86_64
+s375069741.748064
+e375069741.779864
+r1
+xLd
+x/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server
+xnormal
+xx86_64
+old: warning: directory '/usr/local/lib' following -L not found
+old: warning: directory '/Users/Shadow/Dropbox/CPE464/FTP/server' following -L not found
+lSLF07#2@67"Link /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server375069741#375069741#0(151"ld: warning: directory '/usr/local/lib' following -L not foundld: warning: directory '/Users/Shadow/Dropbox/CPE464/FTP/server' following -L not found2(22@49"Directory '/usr/local/lib' following -L not found375069741#0#63#0(6@0"375069741#0#0#0#0#0"0(22@74"Directory '/Users/Shadow/Dropbox/CPE464/FTP/server' following -L not found375069741#63#88#0(6@0"375069741#0#0#0#0#0"0(0#0#0"4317974528#627"    cd /Users/minhnguyen/Dropbox/CPE464/FTP/server    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /usr/bin/gcc-4.2 -arch x86_64 -isysroot /SDKs/MacOSX10.6.sdk -L/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug -L/usr/local/lib -L/Users/Shadow/Dropbox/CPE464/FTP/server -L/Users/minhnguyen/Dropbox/CPE464/FTP/server -F/Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug -filelist /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.LinkFileList -mmacosx-version-min=10.6 -lstdc++ -lcpe464.2.11 -o /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server0#
+

@@ -1,0 +1,3 @@
+echo testing seq.txt...
+
+diff -bw file.txt seq.txt

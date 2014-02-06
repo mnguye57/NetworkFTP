@@ -1,0 +1,8 @@
+87e08ed1d583c97799842e4db2076bbb 9e8ce2b6a6b9f60c3300d834f0d816d9 ffffffffffffffffffffffffffffffff 232096 /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/Debug/server
+000000001c42e89e0000000000003a9f 72996ee37cd117dabae55c35e8644efc ffffffffffffffffffffffffffffffff 11892 /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o
+00000000000001fc0000000000001aa0 f579e032a8d02d2a236172785a6b2746 ffffffffffffffffffffffffffffffff 14320 /Users/minhnguyen/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.o
+0000000050811d2b0000000000001cc5 51d2039b0daa45e38341c7e4dc20521b ffffffffffffffffffffffffffffffff 10792 /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/networks.o
+0000000000198d260000000000001b2d bd681a94f547adf87c44511ee10e2afd ffffffffffffffffffffffffffffffff 11612 /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/x86_64/server.o
+ecba190fb4d7e94dff0596fa3d271c98 67aecb5868b0df2623f1284fd01e1c23 ffffffffffffffffffffffffffffffff 174664 /Users/Shadow/Dropbox/CPE464/FTP/server/build/Debug/server
+0000000050811d2b0000000000001cc5 550a465ec027b627760f972989877c4c ffffffffffffffffffffffffffffffff 8988 /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/networks.o
+0000000000198d260000000000001b2d 4284c00c019cdd4fbbdfa6a00e4153ed ffffffffffffffffffffffffffffffff 9836 /Users/Shadow/Dropbox/CPE464/FTP/server/build/server.build/Debug/server.build/Objects-normal/i386/server.o
